@@ -1,7 +1,5 @@
 # 🏠 House Price Prediction
-
 ## 🚀 Run the App
-
 pip install streamlit scikit-learn pandas numpy
 streamlit run f1.py
 
@@ -84,7 +82,6 @@ house-price-prediction/
 - Building a web app with Streamlit
 - End-to-end ML deployment pipeline
 
----
 
 ## 👨‍💻 Author
 
